@@ -1,0 +1,6 @@
+{
+  "name": "Optima Healthcare Pharmacy",
+  "description": "Promotional website for Optima Healthcare Pharmacy (अप्टिमा हेल्थकेयर फार्मेसी) in Barju–05, Milan Chowk, Amahi Belha, Sunsari, Nepal. Dedicated to quality medicines, patient counseling and community healthcare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
